@@ -20,7 +20,7 @@
     "drizzle-orm": "0.30.9",
     "nanoid": "^5.0.4",
     "next": "14.2.9",
-    "next-auth": "^4.24.5",
+    "next-auth": "^4.24.15",
     "react-email": "^1.10.1",
     "resend": "3.0.0"
   },
